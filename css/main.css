@@ -7,7 +7,7 @@ input[type=range] {
 input[type=range]::-webkit-slider-runnable-track {
     height: 15px;
     width: 100%;
-    background: linear-gradient(to left, #059CFA, white 100%, white);
+    background: linear-gradient(to left, #059CFA, red 200%, white);
     border-radius: 10px;
     box-shadow: 0 1px 1px #def3f8, inset 0 .125em .125em hsl(210, 100.0%, 83.7%);
 }
